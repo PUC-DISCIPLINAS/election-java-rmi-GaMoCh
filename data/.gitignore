@@ -1,0 +1,9 @@
+*
+
+!/src
+!/src/**
+
+!/app
+!/app/.gitkeep
+
+!.gitignore

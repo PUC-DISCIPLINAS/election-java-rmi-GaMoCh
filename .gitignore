@@ -1,0 +1,17 @@
+*
+
+!/src
+!/src/**
+
+!/bin
+!/bin/**
+
+!/data
+!/data/**
+
+!.gitignore
+!.dockerignore
+!.editorconfig
+!Dockerfile
+!README.md
+!LICENSE
